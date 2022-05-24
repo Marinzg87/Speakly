@@ -1,0 +1,20 @@
+{"Cześć":[
+    {"DE":"Hallo"}
+    {"EN":"Hello"}
+    {"ES":"Hola"}
+]}
+{"Jestem.":[
+    {"DE":"Ich bin."}
+    {"EN":"I am."}
+    {"ES":"Soy."}
+]}
+{"Nie jestem.":[
+    {"DE":"Ich bin nicht."}
+    {"EN":"I am not"}
+    {"ES":"No soy"}
+]}
+{"Jestem mężczyzną.":[
+    {"DE":"Ich bin ein Mann."}
+    {"EN":"I am man."}
+    {"ES":"Yo soy hombre."}
+]}
